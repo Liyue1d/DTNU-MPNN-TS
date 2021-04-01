@@ -18,6 +18,8 @@ Required python3 librairies:
 
 Instructions:
 
-1) Edit the file example_run.py to change the DTNU to the one desired. Current DTNU is from Cimatti et al's paper.
+1) Install the required libraires, and ensure a working CPLEX environment is installed and Docplex has access to it.
 
-2) Run example_run.py
+2) Edit the file example_run.py to change the DTNU to the one desired. Current DTNU is from Cimatti et al's paper.
+
+3) Run example_run.py. The pre-trained MPNN is used to guide the tree search, and a R-TDC strategy is displayed if one is found.
