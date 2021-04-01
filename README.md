@@ -13,6 +13,7 @@ Uses a pre-trained graph neural network to guide a tree search algorithm to sear
 Required programs:
 - Python3
 - CPLEX
+- CUDA (optional, for GPU inference)
 
 Required python3 librairies:
 - CPLEX python
