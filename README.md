@@ -7,6 +7,8 @@ A DTNU is of the form: (A,U,C,L) where:
 - C is a set of contraints, with possible disjunctions
 - L is a set of contigency links, with possible disjunctions
 
+Uses a pre-trained graph neural network to guide a tree search algorithm to search for R-TDC strategies.
+
 
 Required programs:
 - Python3
