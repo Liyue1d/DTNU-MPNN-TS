@@ -1,4 +1,4 @@
-# dtnu-MPNN-TS
+# DTNU-MPNN-TS
 
 Computes a Restricted-Time based Dynamic Controllability (R-TDC) for Disjunctive Temporal Networks with Uncertainty.
 
