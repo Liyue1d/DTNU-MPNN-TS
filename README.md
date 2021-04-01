@@ -1,6 +1,12 @@
 # DTNU-MPNN-TS
 
-Computes a Restricted-Time based Dynamic Controllability (R-TDC) for Disjunctive Temporal Networks with Uncertainty.
+Computes a Restricted-Time based Dynamic Controllability (R-TDC) for Disjunctive Temporal Networks with Uncertainty (DTNU).
+A DTNU is of the form: (A,U,C,L) where:
+- A is a set of controllable variables
+- U is a set of uncontrollable variables
+- C is a set of contraints, with possible disjunctions
+- L is a set of contigency links, with possible disjunctions
+
 
 Required programs:
 - Python3
