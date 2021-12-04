@@ -31,7 +31,7 @@ Instructions:
 
 2) Edit the file example_run.py to change the DTNU to the one desired. Current DTNU is from Cimatti et al's paper.
 
-3) Run example_run.py. The pre-trained MPNN is used to guide the tree search, and a R-TDC strategy is displayed if one is found.
+3) Run example_run.py. The pre-trained MPNN is used to guide the tree search (the file save_single_2-6-out includes the pre-trained weights that were found following the training in the paper), and a R-TDC strategy is displayed if one is found.
 
 
 
